@@ -1,5 +1,3 @@
-import React from 'react'
-import PushButton from './components/PushButton'
 import SliceText from './components/SliceText'
 
 const App = () => {
